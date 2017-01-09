@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SimplestNewsReader</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="agency_time_format">%1$s / %2$s</string>
+    <string name="oops_we_have_no_news_for_you">Opps! Looks like we have no news for you. Pull to update</string>
+    <string name="server_error_occured">Server error occurred (%s)</string>
+    <string name="unknown_error_occured">Unknown error occurred</string>
+    <string name="problem_to_load_saved_news">Problem to load saved news</string>
+    <string name="news_item_was_saved">News item was saved</string>
+    <string name="problem_to_save_news_item">Problem to save news item</string>
+    <string name="you_already_saved_this_news_item">You already saved this news item</string>
+    <string name="news_item_was_deleted">News item was deleted</string>
+    <string name="problem_to_delete_news_item">Problem to delete news item</string>
+    <string name="save_news_item">Save news item</string>
+    <string name="show_saved_news">Show saved news</string>
+    <string name="load_news">Load news</string>
+    <string name="do_you_wanna_save_this_news_item">Do you really want to save this news item?</string>
+    <string name="yes">Yes</string>
+    <string name="do_you_wanna_delete_this_news_item">Do you really want to delete this news item?</string>
+    <string name="no">No</string>
+</resources>
